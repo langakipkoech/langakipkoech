@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on **Applications of AI/ML in the Medical Field**  
 - 🌱 I’m currently learning **OpenShift**  
 - 👯 I’m looking to collaborate on **AI and ML projects**  
-- 💬 Ask me about **MPI, C, C++, Python, Matlab**  
+- 💬 Ask me about **C, C++, Python, Matlab**  
 - 📫 Reach me at **elisha.langat@outlook.de**  
 - ⚡ Fun fact: **I love learning!**
 
@@ -53,8 +53,7 @@
 
 ### Database Technologies
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white)
+
 ![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=flat&logo=redis&logoColor=white)
 
 ### DevOps Tools
