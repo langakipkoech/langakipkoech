@@ -1,4 +1,4 @@
-# Hi 👋, I'm Kipkoech Langat
+# Hi 👋, I'm Elisha Kipkoech Langat
 
 ### An AI, ML, and Simulations Enthusiast
 
