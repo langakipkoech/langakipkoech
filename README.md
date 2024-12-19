@@ -10,7 +10,6 @@
 
 - 🔭 I’m currently working on **Applications of AI/ML in the Medical Field**  
 - 🌱 I’m currently learning **OpenShift**  
-- 👯 I’m looking to collaborate on **AI and ML projects**  
 - 💬 Ask me about **C, C++, Python, Matlab**  
 - 📫 Reach me at **elisha.langat@outlook.de**  
 - ⚡ Fun fact: **I love learning!**
