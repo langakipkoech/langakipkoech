@@ -8,8 +8,8 @@
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on **Applications of AI/ML in the Medical Field**  
-- 🌱 I’m currently learning **OpenShift**  
+- 🔭 I’m currently working on **Improving myself**  
+- 🌱 I’m currently learning **Simulations using Unity Game Engine**  
 - 💬 Ask me about **C, C++, Python, Matlab**  
 - 📫 Reach me at **elisha.langat@outlook.de**  
 - ⚡ Fun fact: **I love learning!**
